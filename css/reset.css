@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    scroll-behavior:smooth;
+}
+body{
+    font-family: sans-serif;
+}
+::placeholder{
+    font-family: sans-serif;
+}
+.container{
+    padding-top: 20px;
+    width: 90%;
+    margin: 0 auto;
+}
+main{
+    padding-top: 150px;
+}
+
+
+
+
+
+
